@@ -1,35 +1,42 @@
 # 👋 Hi, I'm Sharad Kharade  
 
-🎯 **Android & Flutter Developer | IT Graduate | Passionate Problem Solver**
+💻 Android & Flutter Developer | 🎓 IT Graduate (2025)  
+
+I build UI-rich, API-driven mobile apps with Java, Kotlin, and Flutter.  
+Passionate about clean code, modern architectures (MVVM, Provider, GetX),  
+and solving real-world problems through technology.  
 
 ---
 
-## 🚀 About Me  
-- 💻 Android development with **Java, XML, MVVM**  
-- 📱 Cross-platform apps using **Flutter & GetX/Provider**  
-- 🔗 Strong foundation in **REST APIs, Room, SQLite, Hive**  
-- 🌱 Currently learning advanced **Flutter & Dart**  
-- ⚡ Love building **UI-rich, API-driven mobile apps**  
-
+## 🌐 Connect with Me  
+- 📧 [Email](mailto:sharadkharade24@gmail.com)  
+- 💻 [GitHub](https://github.com/sharadK24)  
+- 💼 [LinkedIn]() 
 ---
 
-## 🛠️ Tech Skills  
-
-- **Languages:** Java, Dart  
-- **Mobile Development:** Android Studio, Flutter, MVVM, Activity Lifecycle  
-- **State Management:** Provider, GetX  
-- **Databases:** SQLite, Room, Hive (NoSQL)  
-- **APIs & Tools:** REST API, Postman, Git, GitHub  
+## 🛠️ Languages and Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects  
 
 ### ✈️ Travel Care (Android – Java/XML)  
-A travel assistant app to manage & track trip essentials.  
-**Tech:** Java, XML, SharedPreferences  
+A travel assistant app to manage and track trip essentials.  
+**Tech:** Java, Android Studio, XML, SharedPreferences  
 
-🔗 [View Repository](#)  
+🔗 [Repository Link](#) *(Add after uploading project)*  
 
 ---
 
@@ -37,7 +44,7 @@ A travel assistant app to manage & track trip essentials.
 Real-time news app with in-app browser & optimized UI.  
 **Tech:** Flutter, Dart, REST API, GetX  
 
-🔗 [View Repository](#)  
+🔗 [Repository Link](#) *(Add after uploading project)*  
 
 ---
 
@@ -53,7 +60,13 @@ Real-time news app with in-app browser & optimized UI.
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: [sharadkharade24@gmail.com](mailto:sharadkharade24@gmail.com)  
-- 💼 LinkedIn: [Sharad Kharade](#)  
-- 💻 GitHub: [sharadK24](https://github.com/sharadK24)  
+## 📊 GitHub Stats  
+![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharadK24&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadK24&layout=compact&theme=radical)  
+
+---
+
+## 📌 Pinned Projects  
+- [✈️ Travel Care App](#)  
+- [📰 News App (Flutter)](#)  
