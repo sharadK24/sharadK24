@@ -64,7 +64,7 @@ Developed an Android application to manage travel-related information such as tr
 Technologies Used:
 Java • Android Studio • XML • SharedPreferences
 
-🔗 Repository: (Add link after uploading)
+🔗 Repository: ((https://github.com/saurabhkharade/TravelCare.git))
 
 📰 News App (Flutter)
 
@@ -73,7 +73,7 @@ Created a Flutter-based news application that fetches real-time news using REST 
 Technologies Used:
 Flutter • Dart • REST API • GetX
 
-🔗 Repository: (Add link after uploading)
+🔗 Repository: (--)
 
 🎓 Education
 
